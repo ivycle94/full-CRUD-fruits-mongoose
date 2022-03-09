@@ -23,4 +23,4 @@ const Fruit = model("Fruit", fruitSchema)
 /////////////////////////////////
 // Export our Model
 /////////////////////////////////
-module.exports = Fruit 
+module.exports = Fruit
